@@ -15,19 +15,19 @@ const Contact = () => {
             <MdOutlineMarkEmailUnread className='conatct__option-icon'/>
             <h4>Email</h4>
             <h5>madhuriudutha2000@gmail.com</h5>
-            <a href="mailto:madhuriudutha2000@gmail.com" target='_blank'> Send a Email</a>
+            <a href="mailto:madhuriudutha2000@gmail.com" target='_blank' rel="noopener noreferrer"> Send a Email</a>
           </article>
           <article className='contact__option'>
             <SiMessenger className='conatct__option-icon'/>
             <h4>Messenger</h4>
             <h5>Madhuri Udutha</h5>
-            <a href="https://www.facebook.com/messenger/" target='_blank'> Send a Message</a>
+            <a href="https://www.facebook.com/messenger/" target='_blank' rel="noopener noreferrer"> Send a Message</a>
           </article>
           <article className='contact__option'>
             <RiWhatsappFill className='conatct__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+91 850****474</h5>
-            <a href="https://web.whatsapp.com/" target='_blank'> Send a Message</a>
+            <a href="https://web.whatsapp.com/" target='_blank' rel="noopener noreferrer"> Send a Message</a>
           </article>
         </div>
         <form action="">
