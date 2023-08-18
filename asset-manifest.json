@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.09284b61.css",
+    "main.js": "/reactportfolio/static/js/main.0ce32873.js",
+    "static/media/md-arafat-ul-alam-Xx2BrFj8IOQ-unsplash.jpg": "/reactportfolio/static/media/md-arafat-ul-alam-Xx2BrFj8IOQ-unsplash.8a3d59922305dd2266a7.jpg",
+    "static/media/pro2.jpg": "/reactportfolio/static/media/pro2.d0e8bde75594601337ff.jpg",
+    "static/media/hattieb1-1562135080.jpg": "/reactportfolio/static/media/hattieb1-1562135080.97c9e5eb7a6477c71f64.jpg",
+    "static/media/IMG-20220813-WA0001.jpg": "/reactportfolio/static/media/IMG-20220813-WA0001.ad3e34869955fc7a0399.jpg",
+    "static/media/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.avif": "/reactportfolio/static/media/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.b85964d2c4a6971626e5.avif",
+    "static/media/istockphoto-1336160936-612x612.jpg": "/reactportfolio/static/media/istockphoto-1336160936-612x612.5dbdce259eb6aac552b9.jpg",
+    "static/media/THANK YOU.pdf": "/reactportfolio/static/media/THANK YOU.26d38a723fc76a3df75f.pdf",
+    "static/media/indian-country-flag-500x500.webp": "/reactportfolio/static/media/indian-country-flag-500x500.94771dedcd9bcc6c2f9f.webp",
+    "index.html": "/reactportfolio/index.html",
+    "main.09284b61.css.map": "/reactportfolio/static/css/main.09284b61.css.map",
+    "main.0ce32873.js.map": "/reactportfolio/static/js/main.0ce32873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09284b61.css",
+    "static/js/main.0ce32873.js"
+  ]
+}
